@@ -1,9 +1,0 @@
-Suresh
-------
-
-This file is about Suresh. 
-
-Test purpose. 
-
-Please don't ignore it.
------------------------
