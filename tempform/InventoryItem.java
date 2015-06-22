@@ -1,10 +1,10 @@
 package com.tempform;
 
 import java.sql.Connection;
-import java.sql.ResultSet;
-import java.sql.Statement;
+//import java.sql.ResultSet;
+//import java.sql.Statement;
 
-import com.innoppl.dbconnect.SingleConnect;
+//import com.innoppl.dbconnect.SingleConnect;
 
 public class InventoryItem {
 
