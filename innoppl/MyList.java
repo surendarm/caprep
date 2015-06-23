@@ -1,5 +1,7 @@
 package com.innoppl;
 
+GIT session my list eddited by Suren
+
 public class MyList {
 
 	private String customerName, mobileNo, formDate, formName, techName, vinNumber, makeVal, modelVal, tagNumber, timer;
