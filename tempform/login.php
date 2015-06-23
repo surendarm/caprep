@@ -2,7 +2,7 @@
 
 echo "login file";
 
-Apple mac
+igate Apple mac
 
 GIT session file edited by suresh
 
