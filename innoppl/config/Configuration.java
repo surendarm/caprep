@@ -6,6 +6,8 @@ public class Configuration {
 	//public static String APPLICATION_URL = "https://avenger.mightyautoparts.com/ASSISTTabletApp";
 	public static String APPLICATION_URL = "http://localhost:8080/zdeppro";
 	//comment added for git test;
+	// login commit edit. 
+	//testing for git session
 
 	public static String UPLOAD_PATH = "/home/innoppl/CVIFTabletApp/images/service_images/";
 	public static String Form_IMAGES_UPLOAD_PATH = "/home/innoppl/CVIFTabletApp/images/form_images/";
