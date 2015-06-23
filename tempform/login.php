@@ -2,8 +2,12 @@
 
 echo "login file";
 
-Bill Gates Apple mac
+igate Apple mac
 
 GIT session file edited by suresh
+
+gypsy 
+
+grapes
 
 ?>
